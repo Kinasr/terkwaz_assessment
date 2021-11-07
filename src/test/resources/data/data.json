@@ -1,0 +1,14 @@
+{
+  "google": {
+    "search-for": "selenium webdriver",
+    "index-of-result": 3,
+    "result-contains": "What is Selenium WebDriver"
+  },
+  "dynamic-loading": {
+    "expected-message": "Hello World!"
+  },
+  "file-upload": {
+    "file-path": "src/test/resources/data/test.png",
+    "expected-message": "File Uploaded!"
+  }
+}

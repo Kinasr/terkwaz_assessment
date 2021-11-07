@@ -1,0 +1,2 @@
+# Add the reference of the Test Execution Listener for the JUnit 5 to register it
+helper.JunitListener
